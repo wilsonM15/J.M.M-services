@@ -83,7 +83,7 @@ section {
   
 
 .background-img{
-    background-image: /*url("photos/white.jpeg")*/ /*url('photos/DOOR.jpg')*/ /*url("photos/Image-1.jpg")*/ url('photos/Image-1 2.jpg');
+    background-image: /*url("photos/white.jpeg")*/ /*url('photos/DOOR.jpg')*/ /*url("photos/Image-1.jpg")*/ url('Image-1 2.jpg');
     opacity: 90%;
     background-position: center;
     background-repeat: no-repeat;
